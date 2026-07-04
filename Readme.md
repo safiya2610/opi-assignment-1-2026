@@ -18,7 +18,6 @@ A production-grade, Kubernetes-native integration adapter that introduces NVIDIA
   * [Running the Operator](#running-the-operator)
 * [Verification Guide](#verification-guide)
 * [Design Process & LLM Prompting](#design-process--llm-prompting)
-* [License](#license)
 
 ---
 
