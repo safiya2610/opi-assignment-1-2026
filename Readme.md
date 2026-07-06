@@ -202,4 +202,3 @@ go test ./...
 ```
 
 This project currently has no test files, but the module compiles successfully with the current skeleton.
->>>>>>> fb8ec84 (feat(adapter): add vendor-neutral adapter skeleton and Nvidia translator)
